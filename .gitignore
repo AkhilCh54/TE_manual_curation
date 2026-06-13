@@ -5,7 +5,6 @@ pfam_db/Pfam-A.hmm.h3p
 pfam_db/Pfam-A.hmm.h3m
 pfam_db/Pfam-A.hmm.h3i
 pfam_db/Pfam-A.hmm.h3f
-pfam_db/Pfam-A.hmm.gz
 
 # logs
 wget-log*
