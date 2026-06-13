@@ -1,0 +1,18 @@
+# huge databases (DO NOT store in git)
+pfam_db/Pfam-A.hmm.dat
+pfam_db/Pfam-A.hmm
+pfam_db/Pfam-A.hmm.h3p
+pfam_db/Pfam-A.hmm.h3m
+pfam_db/Pfam-A.hmm.h3i
+pfam_db/Pfam-A.hmm.h3f
+pfam_db/Pfam-A.hmm.gz
+
+# logs
+wget-log*
+*.log
+
+#conda activation
+conda_activation_command.txt
+
+# system junk
+.DS_Store
